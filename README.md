@@ -7,20 +7,23 @@ This repository contains my solutions to various CSS challenges on [HackerRank](
 
 ## 📂 Repository Structure
 
-Each challenge is organized into folders based on the topic it covers. You can navigate through the folders to find solutions for specific CSS concepts.
+Here I can .
 
-### Main Sections:
-- **Selectors**: Challenges related to CSS selectors and specificity.
-- **Box Model**: Exercises focused on margin, padding, border, and content.
-- **Flexbox**: Layout challenges using CSS Flexbox.
-- **Grid**: Layout challenges using CSS Grid.
-- **Positioning**: Exercises covering different CSS positioning techniques.
-- **Animations**: Challenges that involve CSS animations and transitions.
 
 ---
 
+### 🎓 Earn Your HackerRank Certificate
+
+By following the solutions provided in this repository, you can complete the CSS challenges on HackerRank and work towards earning your **CSS certification**. After solving a series of problems, HackerRank provides a certificate, showcasing your proficiency in CSS.
+
+- **Step 1**: Visit the [HackerRank CSS Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-css) page.
+- **Step 2**: Attempt the challenges and refer to the solutions in this repository when needed.
+- **Step 3**: Once you complete enough challenges, you can unlock the CSS certificate.
+- **Step 4**: Share your certificate and solutions to showcase your skills!
+
+---
 ## 🚀 How to Use
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/css-hackerrank-solutions.git
+   git clone https://github.com/Manjunath-saddala/CSS-HackerRank-Solutions.git
